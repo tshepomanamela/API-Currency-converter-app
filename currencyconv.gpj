@@ -13,7 +13,8 @@ s#i0
 s#k0
 s#j0
 s#l0
-!28;g
+!1193;d
+[\012  grasp [\012   legendy -32.68181818181819\012   legendx -71.0\012   version 1\012   winflags 3\012   eheight 972\012   ewidth 960\012   height 972\012   width 960\012   wbp 0\012   initlayout 0\012   yoffs -0.13636363636368287\012   xoffs -0.9999999999999716\012   scale 1.0\012   args ""\012   otherflags 139\012   shallowjar 1\012   visflags 118423807\012  ]\012  directed 1\012  node [\012   ClassInfo [\012    condition 1\012    access2 0\012    access 0\012    classname "CurrencyConverter"\012    fromclassfiledate 0\012    fromclassfilename "%\011CurrencyConverter.class"\012    fromfilename "%\011CurrencyConverter.java"\012   ]\012   id 0\012   graphics [\012    center [\012     x -142.0\012     y 0.0\012     z 0.0\012    ]\012   ]\012   vgj [\012    flags 0\012   ]\012  ]\012  node [\012   ClassInfo [\012    condition 1\012    access2 0\012    access 0\012    classname "ExchangeRates"\012    fromclassfiledate 0\012    fromclassfilename "%\011ExchangeRates.class"\012    fromfilename "%\011CurrencyConverter.java"\012   ]\012   id 1\012   graphics [\012    center [\012     x 0.0\012     y 0.0\012     z 0.0\012    ]\012   ]\012   vgj [\012    flags 0\012   ]\012  ]\012 ]!28;g
 %\011CurrencyConverter.java
 !28;f
 %\011CurrencyConverter.java
